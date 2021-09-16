@@ -3,6 +3,14 @@
     padding: 0;
     margin: 0;
 }
+a i{
+    color: #ffffff;
+}
+
+a i:hover{
+    color: #86F1C0;
+}
+
 .top{
     position: relative;
     height: 100vh;
